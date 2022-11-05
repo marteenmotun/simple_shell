@@ -249,11 +249,11 @@ Example:
 $ ./hsh
 $ alias show=ls
 $ show
-AUTHORS            builtins_help_2.c  errors.c         linkedlist.c        shell.h       test
-README.md          env_builtins.c     getline.c        locate.c            hsh
-alias_builtins.c   environ.c          helper.c         main.c              split.c
-builtin.c          err_msgs1.c        helpers_2.c      man_1_simple_shell  str_funcs1.c
-builtins_help_1.c  err_msgs2.c        input_helpers.c  proc_file_comm.c    str_funcs2.c
+AUTHORS           access.c  close.c     exit.c    getcwd.c   isatty.c   open.c    
+README.md  closedir.c  fflush.c  getline.c  kill.c     perror.c   shell.h
+execve.c    fork.c    getpid.c   malloc.c   read.c     signal.c
+chdir.c   _exit.c     free.c    hsh        man_files  readdir.c  stat.c
+
 
 
 #### exit
